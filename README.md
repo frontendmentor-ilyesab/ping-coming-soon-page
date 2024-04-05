@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Url](https://www.frontendmentor.io/solutions/interactive-ping-coming-soon-page-Dk0VFERMAl)
+- Live Site URL: [Live Site Url](https://frontendmentor-ilyesab.github.io/ping-coming-soon-page/)
 
 ## My process
 
